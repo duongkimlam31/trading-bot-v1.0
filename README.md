@@ -1,0 +1,1 @@
+# trading-bot-v1.0
